@@ -36,6 +36,7 @@
 #### Created student table having attributes ID,NameMail. Mobile_no, Course, Fee, Discount, Date Status,status_final
 
 
+
 ### Demo_Schedule table
 #### It is taken from student table who has done their demo with added attributes like demoday (WD,WE),day,time
 
@@ -50,3 +51,8 @@
 
 ### batch table
 #### this table contains details of students who joined training where data is taken from enroll table with added attributes like joining_date,week_day,day,time
+
+### Contributors
+i)Trupti Chaudary
+ii)Gaurav Mishal
+iii)Mohammed Kareem
