@@ -26,6 +26,6 @@
 * Updation can be performed on master table. <br>
 
 ### Contributors
-i)Trupti Chaudary
-ii)Gaurav Mishal
-iii)Mohammed Kareem
+i)Trupti Chaudary <br>
+ii)Gaurav Mishal <br>
+iii)Mohammed Kareem <br>
